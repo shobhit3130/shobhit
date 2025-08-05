@@ -1,69 +1,61 @@
     1  touch rr.txt
-    2  touch rr.txt
-    3  touch shobhit.txt
-    4  alas
-    5  touch shobhit.txt
-    6  touch shobhit.txt
-    7  ls
-    8  git init
+    2  touch shobhit.txt
+    3  ls
+    4  git init
+    5  git status
+    6  git add
+    7  git status
+    8  git add.
     9  git status
-   10  git add
+   10  git add shobhit.txt
    11  git status
-   12  git add.
-   13  git status
-   14  git add shobhit.txt
-   15  git status
-   16  git commit -@"first commit"
-   17  git commit -a "first commmit"
-   18  git commit -m "first commit"
-   19  git config --global user.email "shobhitg3130@gmail.com"
-   20  git config --global user.name "shobhit"
-   21  git commit -m "first commit"
-   22  git branch -M main
-   23  git remote add origin https://github.com/shobhit3130/shobhit.git
-   24  git push -u origin main
-   25  nano shobhit.txt
-   26  touch shobhit.txt
-   27  git status
-   28  nano shobhit.txt
-   29  nano shobhit.txt
-   30  nano shobhit.txt
-   31  git status
-   32  git add.
-   33  git add
-   34  git add .
-   35  git add shobhit.txt
-   36  git commit -m"new"
+   12  git commit -m "first commit"
+   13  git config --global user.email "shobhitg3130@gmail.com"
+   14  git config --global user.name "shobhit"
+   15  git commit -m "first commit"
+   16  git branch -M main
+   17  git remote add origin https://github.com/shobhit3130/shobhit.git
+   18  git push -u origin main
+   19  nano shobhit.txt
+   20  touch shobhit.txt
+   21  git status
+   22  nano shobhit.txt
+   23  nano shobhit.txt
+   24  nano shobhit.txt
+   25  git status
+   26  git add.
+   27  git add
+   28  git add .
+   29  git add shobhit.txt
+   30  git commit -m"new"
+   31  git push origin main
+   32  nano shobhit.txt
+   33  git add .
+   34  git add
+   35 git add shobhit.txt
+   36  git commit -m"java"
    37  git push origin main
-   38  nano shobhit.txt
+   38  touch code.java
    39  git add .
-   40  git add
-   41  git add shobhit.txt
-   42  git commit -m"java"
-   43  git push origin main
-   44  touch code.java
-   45  git add .
-   46  git add code.java
-   47  git status
-   48  nano code.java
-   49  git add .
-   50  git add code.java
-   51  git commit -m"new"
+   40  git add code.java
+   41  git status
+   42  nano code.java
+   43  git add .
+   44  git add code.java
+   45  git commit -m"new"
+   46  git push origin main
+   47  git add pic 1.png
+   48  git add pic1.png
+   49  git add pic2.png
+   50  git add pic3.png
+   51  git commit -m"add"
    52  git push origin main
-   53  git add pic 1.png
-   54  git add pic1.png
-   55  git add pic2.png
-   56  git add pic3.png
-   57  git commit -m"add"
-   58  git push origin main
-   59  touch document.txt
-   60  git add .
-   61  git add document.txt
-   62  git status
-   63  nano document.txt
-   64  nano document.txt
-   65  git commit -m"document"
-   66  git push origin main
-   67  nano document.txt
-   68  history
-   69  history > commands.txt
+   53  touch document.txt
+   54  git add .
+   55  git add document.txt
+   56  git status
+   57  nano document.txt
+   58  nano document.txt
+   59  git commit -m"document"
+   60  git push origin main
+   61  nano document.txt
