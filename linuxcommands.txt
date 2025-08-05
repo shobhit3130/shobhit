@@ -1,0 +1,162 @@
+    1  touch rr.txt
+    2  touch rr.txt
+    3  touch shobhit.txt
+    4  alas
+    5  touch shobhit.txt
+    6  touch shobhit.txt
+    7  ls
+    8  git init
+    9  git status
+   10  git add
+   11  git status
+   12  git add.
+   13  git status
+   14  git add shobhit.txt
+   15  git status
+   16  git commit -@"first commit"
+   17  git commit -a "first commmit"
+   18  git commit -m "first commit"
+   19  git config --global user.email "shobhitg3130@gmail.com"
+   20  git config --global user.name "shobhit"
+   21  git commit -m "first commit"
+   22  git branch -M main
+   23  git remote add origin https://github.com/shobhit3130/shobhit.git
+   24  git push -u origin main
+   25  nano shobhit.txt
+   26  touch shobhit.txt
+   27  git status
+   28  nano shobhit.txt
+   29  nano shobhit.txt
+   30  nano shobhit.txt
+   31  git status
+   32  git add.
+   33  git add
+   34  git add .
+   35  git add shobhit.txt
+   36  git commit -m"new"
+   37  git push origin main
+   38  nano shobhit.txt
+   39  git add .
+   40  git add
+   41  git add shobhit.txt
+   42  git commit -m"java"
+   43  git push origin main
+   44  touch code.java
+   45  git add .
+   46  git add code.java
+   47  git status
+   48  nano code.java
+   49  git add .
+   50  git add code.java
+   51  git commit -m"new"
+   52  git push origin main
+   53  git add pic 1.png
+   54  git add pic1.png
+   55  git add pic2.png
+   56  git add pic3.png
+   57  git commit -m"add"
+   58  git push origin main
+   59  touch document.txt
+   60  git add .
+   61  git add document.txt
+   62  git status
+   63  nano document.txt
+   64  nano document.txt
+   65  git commit -m"document"
+   66  git push origin main
+   67  nano document.txt
+   68  history
+   69  history > commands.txt
+   70  git add commands.txt
+   71  git commit -m"add commands"
+   72  git push origin main
+   73  touch shobhit.txt
+   74  git status
+   75  touch code.java
+   76  git status
+   77  git restore shobhit.txt
+   78  touch shobhit.txt
+   79  git status
+   80  touch document.txt
+   81  git status document.txt
+   82  nano document.txt
+   83  git commit -m"new"
+   84  git puh origin main
+   85  git push origin main
+   86  git add
+   87  git add .
+   88  git add document.txt
+   89  nano commands.txt
+   90  git commit -m"commands"
+   91  git push origin main
+   92  git add .
+   93  git add commands.txt
+   94  git status
+   95  git commit -a"commands"
+   96  git push origin main
+   97  nano commands.txt
+   98  git log
+   99   git log commands.txt
+  100  ls
+  101  nano shobhit.txt
+  102  cat shobhit.txt
+  103  sort shobhit.txt
+  104  sh/
+  105  ls
+  106  mkdir shobhit
+  107  ls
+  108  cd shobhit
+  109  cp document.txt shobhit.txt 
+  110  ls
+  111  cd
+  112  ls
+  113  cd github
+  114  mkdir github
+  115  cd github
+  116  ls
+  117  ls
+  118  ls
+  119  cp document.txt
+  120  cp document.txt shobhit.txt
+  121  clean shobhit.txt
+  122  clear shobhit.txt
+  123  ls
+  124  remove shobhit.txt
+  125  git rm shobhit.txt
+  126  -f
+  127  rm shobhit.txt
+  128  ls
+  129  mv document.txt shobhit/
+  130  cd shobhit
+  131  ls
+  132  cd..
+  133  cd ..
+  134  rm -rshobhit
+  135  rm -r shobhit
+  136  ls
+  137  touch sh.txt
+  138  touuch sho.txt
+  139  touch sho.txt
+  140  touch s.txt
+  141  ls
+  142  rm s.txt
+  143  rm sho.txt
+  144  rm sh.txt
+  145  ls
+  146  touch demo.txt
+  147  ls
+  148  clear
+  149  chmod 700 sh.txt
+  150  chmod 700 shobhit.txt
+  151  chmod 700 document.txt
+  152  ls
+  153  chmod 700 demo.txt
+  154  pwd
+  155  mkdir shobhit/
+  156  cd shobhit/
+  157  pwd
+  158  cd ..
+  159  histroy
+  160  history
+  161  history > liinux commands.txt
+  162  history > linuxcommands.txt

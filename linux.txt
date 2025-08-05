@@ -1,0 +1,24 @@
+pwd-present working directory
+clear-clear the display
+ls-shows all files
+who am i-to show the currently logged in user
+touch(file name)-to create new file
+cat-display content of file
+
+sort-sort the content line by line
+mkdir(folder name)-to create new folder
+cd(folder name)-to move to another folder
+cp (file name) (file name) - to copy one file to another
+rm(file name)-to delete file
+mv (file name)(folder name)-to copy one file to another folder
+cd ..- comeback to previous folder
+rm -r(folder name)-to delete the entire folder
+chmod 730 file name-to give permissions
+0=no permission
+1=execute only
+2=write only
+4= read only
+7=1+2+4
+7=owner
+3=group
+0=second person
